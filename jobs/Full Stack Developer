@@ -1,0 +1,59 @@
+title: Full Stack Developer
+company: Compass Working Capital
+url: http://compassworkingcapital.org
+location: Boston MA
+# Choose one of the following options
+contract: permanent 
+contact:
+    name: Crystal Murphy  
+    email: apply@compassworkingcapital.org 
+created: !!timestamp '2017-08-31' # Update this with today's date
+tags:
+  - python
+  - sql
+  - django 
+  # include relevant tags
+---
+
+# Lines like this, which begin with # are headings
+
+Full job description here, in Markdown format
+Organization & Mission
+Founded in 2005, Compass Working Capital (“Compass”) is a nonprofit organization that supports low-income families to build assets and financial capabilities as a pathway out of poverty. More broadly, Compass seeks to build a leading, nonprofit financial services organization that promotes economic mobility and financial security for low-income families by influencing field-related practice and policy.
+
+Over the last seven years, our focus has been the launch and expansion of an innovative, new model for the Family Self-Sufficiency (FSS) program, a historically underutilized employment and savings program for families who live in federally subsidized housing. The first program of its kind in the country, the Compass FSS program is offered through partnerships with multiple housing partners in Massachusetts, Connecticut, and Rhode Island. 
+Building on the success of our local programs in New England, Compass launched a national network in 2016 to help expand the scope and impact of the FSS program around the country. Through this network, Compass provides training and technical assistance to mission aligned housing partners who seek to implement the Compass FSS model in their own communities. The Compass FSS program continues to attract local and national attention as an innovative model that supports low-income families to build assets, achieve their goals, and make progress toward financial security. 
+In addition to our flagship FSS programs, we also provide contract-based financial coaching programs for other organizations that serve low-income families. 
+For more information, please visit www.compassworkingcapital.org
+
+Position Description and Responsibilities
+Compass is at a critical juncture in its growth, having evolved from a small start-up organization to being in the beginning stages of an ambitious national expansion effort, prompting the creation of this new role. The Full Stack Developer will be a key member of the National Network Team reporting to the Director of National Impact. We are an innovative, entrepreneurial team building quickly in the face of substantial ambiguity and opportunity. We are looking for a mission-oriented individual who will fight for our users and help us realize our vision of offering scalable solutions to increase the scope and impact of the FSS program nationally. Core users include financial coaches working with low-income families, program managers, and low-income families participating in our programs.  In this role, the Full Stack Developer will collaborate broadly with an array of non-technical stakeholders to understand user needs and rapidly iterate to develop innovative, scalable solutions to meet those needs. Key stakeholders will include other members of the National Network team, the Director of Learning and Knowledge Management, Financial Coaches, Program Managers, and the Financial Services Team.  You will have the opportunity to build from the ground up and decide what technology we move forward with as you define the tech roadmap for the National Network.  
+
+Specific responsibilities include the following:
+•	Develop technical solutions according to specification
+•	Translate broader product visions into possible technological solutions (e.g., providing financial coaches and program managers with on-demand access to relevant resources and tailored training and helping low-income families quickly identify resources to help with financial goals) 
+•	Identify technical trade-offs and possible product paths for development strategy
+•	Help interpret feedback from users and translate into actionable advice
+•	Help define interfaces with the diverse array of relevant tools and users (e.g., resource libraries used by financial coaches, tools and templates for program managers)
+•	Collaborate with predominantly non-technical teammates
+
+•	Improve user interface of the custom application (built on Salesforce.com platform) used in local financial coaching programs in partnership with program teams and lead administrator
+•	Help chart the technical course from MVP to reliable scale
+The ideal candidate will have experience with and a track record of demonstrating excellence across the following skills and technologies:
+•	Front-end web development (HTML, CSS, JS)
+•	Back-end data architecture 
+•	Object-oriented programming and at least one modern web framework 
+•	Managing the software development lifecycle within a team; agile development
+•	Making smart tradeoffs of efficiency/speed/reliability/maintainability
+•	Following software development best practices (automated testing, code comments, etc.)
+•	Collaborating with nontechnical partners to effectively communicate technical outcomes
+•	Taking a user-driven approach, finding effective solutions for users of diverse socioeconomic and educational backgrounds
+•	Familiarity with the Salesforce.com development platform (including Apex, Visualforce and Lightning components) is a plus
+Knowledge, Skills, and Personal Characteristics
+The ideal candidate will be a highly motivated, flexible team player with the following skills and characteristics:
+
+•	Commitment to the Compass mission. Commitment to supporting low-income families. An understanding of issues related to low-income families is a plus.
+•	Commitment to innovation, excellence, and entrepreneurship. Energized to work in an entrepreneurial, growth-oriented nonprofit organization. Demonstrated commitment to testing and evaluating new ideas and to building a model organization. The ideal candidate will be a proactive team player, with a willingness to lead larger projects, especially around enabling us to deliver our training and technical resources at scale.
+•	Excellent organization and communication skills. Detail-oriented with the ability to complete work accurately and efficiently. Ability to translate complicated technical jargon into actionable items for people with varying knowledge backgrounds.  
+•	Relevant work experience: At least 3-5 years of experience in web development and/or product management roles. 
+•	People-centered approach: Comfortable working in teams and can build rapport with people from diverse backgrounds and perspectives and familiarity with human-centered design.
